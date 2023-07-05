@@ -1,0 +1,20 @@
+/*
+Fonts
+*/
+
+.head-text{
+    font-family: 'Barlow Condensed', sans-serif;
+    line-height: 1;
+}
+
+.sub-text{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
+    line-height: .90;
+}
+
+.sub-text2{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.3;
+}
